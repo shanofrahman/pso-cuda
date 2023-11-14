@@ -17,7 +17,7 @@ To build and run the code follow these instructions:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Harsharv/Particle-swarm-optimization
+   git clone https://github.com/shanofrahman/pso-cuda
    ```
 
 2. Navigate to the directory
