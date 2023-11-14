@@ -10,6 +10,8 @@ This code provides a CUDA implementation of Particle Swarm Optimization. Particl
 
 The code defines a struct for swarm that holds the particle positions, velocities, and best local positions. For each particle, the code performs a step that involves the calculation of the velocity and position for each dimension. The kernels are called to calculate the fitness function (f) for each particle's calculated position. The fitness values are stored, and the kernel is called for every iteration to update global best, while the local best positions are updated. The global best fitness value is updated if the global minimum is updated.
 
+![image](https://github.com/shanofrahman/pso-cuda/assets/77228017/e4436b18-26f1-45bb-a5a8-5f695c318eea)
+
 ## How to build and run the code 
 
 To build and run the code follow these instructions:
