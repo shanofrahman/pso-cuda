@@ -1,6 +1,5 @@
 # pso-cuda
 CUDA-baseline implementation of D-Dimensional PSO. Multiple reduction kernels are tested. 
-I have already provided the code for the .readme file. Here it is again for your reference:
 
 # Particle Swarm Optimization
 
